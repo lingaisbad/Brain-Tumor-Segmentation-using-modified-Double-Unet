@@ -1,6 +1,9 @@
 # Brain-Tumor-Segmentation-using-modified-Double-Unet
 In this work, we present a deep learning approach for segmenting brain tumors. The data is being used for segmentation and is accomplished through the use of a modified Double U-net design.
 
+**Checkout the paper published in Scientific.net 
+https://www.scientific.net/AST.124.111**
+
 Due to the general complexity of MRI brain imaging, brain tumor detection is a difficult problem to solve, but it aims to detect tumors by segmenting them utilizing AI-based algorithms. In this paper, we proposed a segmentation model using a Modified Double U-Net which has improved segmentation accuracy. The proposed model was tested using data from the Kaggle repository and was experimented with different variables of which the results are given in the performance analysis.
 
 Initially, the proposed model was tested with various data splits. From which it was evident that the model outperformed for the 80/20 split. 
